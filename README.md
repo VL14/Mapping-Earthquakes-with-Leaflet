@@ -2,15 +2,29 @@
 
 The United States Geological Survey, or USGS, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. 
 
-In this website, I've used USGS data (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) to create a visualization of an earthquake data set. Leaflet was utilized to generate a map that plots all of the earthquakes from this data set based on longitude and latitude.
+On this webpage, I've used USGS data (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) to create a visualization of an earthquake data set. Leaflet and Mapbox were utilized to generate a map that plots all of the earthquakes from the last 7 days with a magnitude of 1.0 and higher based on longitude and latitude.
 
-   * Your data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
+Key Features:
 
-   * Include popups that provide additional information about the earthquake when a marker is clicked.
+  -The data markers are color coded and sized based on the magnitude of the earthquake
 
-   * Create a legend that will provide context for your map data.
+  -Clicking on a marker will generate a pop-up with additional information about the earthquake
+ 
+  -A color-coded legend
+  
+  -Layer control with 2 different basemaps
 
 Tools used:
-  -JSON file
+
+  -GeoJSON file
+
   -Javascript
+
+  -D3.js
+
+  -JQuery
+
   -Leaflet
+  
+  -Mapbox
+  
