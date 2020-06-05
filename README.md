@@ -7,17 +7,17 @@ On this webpage, I've used USGS data (http://earthquake.usgs.gov/earthquakes/fee
 
 
 ## Key Features:
-*The data markers are color coded and sized based on the magnitude of the earthquake
-*Clicking on a marker will generate a pop-up with additional information about the earthquake
-*A color-coded legend
-*Layer control with 2 different basemaps
+* The data markers are color coded and sized based on the magnitude of the earthquake
+* Clicking on a marker will generate a pop-up with additional information about the earthquake
+* A color-coded legend
+* Layer control with 2 different basemaps
   
 
 ## Tools used:
-*GeoJSON file
-*Javascript
-*D3.js
-*JQuery
-*Leaflet
-*Mapbox
+* GeoJSON file
+* Javascript
+* D3.js
+* JQuery
+* Leaflet
+* Mapbox
   
