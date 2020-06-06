@@ -3,6 +3,8 @@ The United States Geological Survey, or USGS, is responsible for providing scien
 
 On this webpage, I've used USGS data (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) to create a visualization of an earthquake data set. Leaflet and Mapbox were utilized to generate a map that plots all of the earthquakes from the last 7 days with a magnitude of 1.0 and higher based on longitude and latitude.
 
+Link To Site: https://vl14.github.io/leaflet-challenge/.
+
 
 ## Key Features:
 * The data markers are color coded and sized based on the magnitude of the earthquake
