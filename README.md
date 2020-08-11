@@ -1,14 +1,12 @@
 # Mapping Earthquakes With Leaflet
-This project is a part of the Data Analytics Bootcamp at Case Western Reserve University.
+<img src="https://github.com/VL14/Mapping-Earthquakes-with-Leaflet/blob/master/images/crack.jpg" width="500">
 
-#### --Project Status: Completed
+<span>Photo by <a href="https://unsplash.com/@photoart2018?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andrew Buchanan</a> on <a href="https://unsplash.com/s/photos/earthquake?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ## Project Intro/Objective
 The United States Geological Survey, or USGS, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. The purpose of this project is to create a map-based data visualization of worldwide earthquake occurrences over a 7-day period.
 
-<img src="https://github.com/VL14/Mapping-Earthquakes-with-Leaflet/blob/master/images/crack.jpg" width="500">
-
-<span>Photo by <a href="https://unsplash.com/@photoart2018?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andrew Buchanan</a> on <a href="https://unsplash.com/s/photos/earthquake?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+#### --Project Status: Completed
 
 ### Methods Used
 * Mapping
